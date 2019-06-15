@@ -1,0 +1,6 @@
+opendkim-reputation.o: reputation.c /usr/include/stdc-predef.h \
+ ../build-config.h
+
+/usr/include/stdc-predef.h:
+
+../build-config.h:

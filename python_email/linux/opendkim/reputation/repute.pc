@@ -1,0 +1,15 @@
+# Process this file with autoconf to produce a pkg-config metadata file.
+
+prefix=/usr
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: REPUTE query library
+Description: Library for performing REPUTE queries for spammy domains
+URL: http://opendkim.org
+Version: 2.10.3
+Libs: -L${libdir} -pthread -lrepute
+Libs.private: -lresolv 
+Cflags: -I${includedir} -pthread
+

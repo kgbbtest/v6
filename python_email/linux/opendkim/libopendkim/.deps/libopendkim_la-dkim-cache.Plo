@@ -1,0 +1,6 @@
+libopendkim_la-dkim-cache.lo: dkim-cache.c /usr/include/stdc-predef.h \
+ ../build-config.h
+
+/usr/include/stdc-predef.h:
+
+../build-config.h:

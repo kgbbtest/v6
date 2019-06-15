@@ -1,0 +1,5 @@
+opendkim-stats.o: stats.c /usr/include/stdc-predef.h ../build-config.h
+
+/usr/include/stdc-predef.h:
+
+../build-config.h:

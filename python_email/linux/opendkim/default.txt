@@ -1,0 +1,2 @@
+default._domainkey	IN	TXT	( "v=DKIM1; k=rsa; "
+	  "p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDT74qj7LRJfxKmnVRfKt7Z0E6oxkiLV8GJLQMoVlxXb4QZKz3w2bMzeP8VeGiV6yNEyFl/rzweMNnyNb/r5lzZRoR2aXOzSIk6HuyxIx9jxTMfvnHLSKE52c9ROsvvEHQlV0sfTc1Os43pqSq1IT9eS8R2aJGJsTW5nktt5yhxjQIDAQAB" )  ; ----- DKIM key default for example.com
