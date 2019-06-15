@@ -2627,3 +2627,6 @@
 0%  deal 312 message  left 20718  use 6078.74131417s  Vela@richardyao.cn sendto 3425738014@qq.com
 0%  deal 313 message  left 20717  use 6099.12499619s  Kanti@sanglewu.com.cn sendto 97464380@qq.com
 0%  deal 314 message  left 20716  use 6131.75097013s  Anumati@linlaotou.com.cn sendto 17442648@qq.com
+0%  deal 315 message  left 20715  use 6168.61443806s  Inbanathan@wxshenfei.cn sendto 2586260542@qq.com
+0%  deal 316 message  left 20714  use 6185.95657921s  Devang@tz344.com sendto 2380211570@qq.com
+0%  deal 317 message  left 20713  use 6198.67502809s  Mamata@360buyer.com.cn sendto 2499114154@qq.com
