@@ -2630,3 +2630,10 @@
 0%  deal 315 message  left 20715  use 6168.61443806s  Inbanathan@wxshenfei.cn sendto 2586260542@qq.com
 0%  deal 316 message  left 20714  use 6185.95657921s  Devang@tz344.com sendto 2380211570@qq.com
 0%  deal 317 message  left 20713  use 6198.67502809s  Mamata@360buyer.com.cn sendto 2499114154@qq.com
+0%  deal 318 message  left 20712  use 6231.45107818s  Sandhaya@xuzhouliren.cn sendto 2777801299@qq.com
+0%  deal 319 message  left 20711  use 6268.29322505s  Snehalata@na885.com sendto 390170743@qq.com
+0%  deal 320 message  left 20710  use 6284.92699909s  Priya@flexs.com.cn sendto 2396945075@qq.com
+0%  deal 321 message  left 20709  use 6319.9435842s  Subinay@na897.com sendto 2754147110@qq.com
+0%  deal 322 message  left 20708  use 6355.61049414s  Urshita@cnepin.cn sendto 2910953564@qq.com
+0%  deal 323 message  left 20707  use 6389.06933022s  Shashikant@zhsinoair.com sendto 2910989199@qq.com
+0%  deal 324 message  left 20706  use 6402.74440122s  Rajanikanta@zsggz.cn sendto 2891746498@qq.com
