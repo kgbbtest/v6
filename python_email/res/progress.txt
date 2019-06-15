@@ -2626,3 +2626,4 @@
 0%  deal 311 message  left 20719  use 6065.35776901s  Gulfam@na885.com sendto 2043397056@qq.com
 0%  deal 312 message  left 20718  use 6078.74131417s  Vela@richardyao.cn sendto 3425738014@qq.com
 0%  deal 313 message  left 20717  use 6099.12499619s  Kanti@sanglewu.com.cn sendto 97464380@qq.com
+0%  deal 314 message  left 20716  use 6131.75097013s  Anumati@linlaotou.com.cn sendto 17442648@qq.com
